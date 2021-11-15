@@ -1,0 +1,35 @@
+{
+ "address": "",
+ "address_index": 30956919,
+ "background-color": "#191A1F",
+ "cloneable": true,
+ "cloned_from": "     ",
+ "description": "Optional files demo",
+ "files": {
+  "css/all.css": {
+   "sha512": "",
+   "size": 123852
+  }
+ 
+ },
+ "ignore": "(data/.*db|data/users/.*/.*|updater/(temp|ffmpeg)/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "modified": 1449961178.414,
+ "optional": "((js|css)/(?!all.(js|css))|data/mp4-.*/.*)",
+ "sign": [
+  38991500850894247422889794086763613337017121122720077308658028589109570217866,
+  37639765283556847833661950661418582046215078066160301612513821034170440917025
+ ],
+ "signers_sign": "",
+ "signs": {
+  "": ""
+ },
+ "signs_required": 1,
+ "title": "REaction GIFs",
+ "mojonet_version": "0.3.4"
+}
